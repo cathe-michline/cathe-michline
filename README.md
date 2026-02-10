@@ -19,15 +19,26 @@ I’m particularly interested in building products that combine **good user expe
 **Languages**  
 - HTML, CSS, JavaScript  
 
-**Frameworks & Tools**  
+**Frontend**  
+- Angular - Responsive UI Design  
+- Bootstrap / Tailwind CSS  
+
+**Backend & APIs**  
 - Node.js, Express  
-- Git, GitHub  
+- RESTful APIs  
+
+**Databases**  
+- MongoDB / MySQL 
 
 **Design**  
 - Figma  
 
 **AI & Emerging Tech**  
-- Integrating AI models into web applications (Ollama)  
+- Integrating AI models into web applications
+
+**Tools & Dev Practices**  
+- Git, GitHub  
+- Postman (API testing)  
 
 **Core Strengths**  
 - Frontend Development  
@@ -35,12 +46,14 @@ I’m particularly interested in building products that combine **good user expe
 - Team Collaboration  
 - Problem Solving  
 
+
 ---
 
 ## 🎯 Current Focus  
 - Building real-world web applications  
-- Exploring AI-assisted tools and intelligent interfaces  
-- Improving full-stack development skills  
+- Exploring AI-assisted tools and intelligent interfaces
+- Refining and enhancing AI-generated outputs for better accuracy and usability
+- Improving full-stack development skills 
 
 ---
 
