@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I’m Cathe 👋
 
-<!--
-**cathe-michline/cathe-michline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of IT student at Swinburne University (Melbourne)  
+🎓 Bachelor of IT graduate  
+💡 Frontend-focused developer with interest in AI-powered applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me  
+I have a background in Information Technology, having completed my **Bachelor of IT**, and I’m currently pursuing my **Master of IT at Swinburne University**.  
+I enjoy building clean, user-friendly web interfaces and working on practical, real-world software projects. Through my studies and team projects, I’ve gained hands-on experience in web development, UI/UX design, and integrating AI into applications.
+
+I’m particularly interested in building products that combine **good user experience with intelligent features**, and I’m always learning new tools and technologies to improve my development skills.
+
+---
+
+## 🛠️ Skills & Technologies  
+
+**Languages**  
+- HTML, CSS, JavaScript  
+
+**Frameworks & Tools**  
+- Node.js, Express  
+- Git, GitHub  
+
+**Design**  
+- Figma  
+
+**AI & Emerging Tech**  
+- Integrating AI models into web applications (Ollama)  
+
+**Core Strengths**  
+- Frontend Development  
+- UI/UX Thinking  
+- Team Collaboration  
+- Problem Solving  
+
+---
+
+## 🎯 Current Focus  
+- Building real-world web applications  
+- Exploring AI-assisted tools and intelligent interfaces  
+- Improving full-stack development skills  
+
+---
+
+## 📫 Let’s Connect  
+- LinkedIn: [https://linkedin.com/in/your-link-here](https://www.linkedin.com/in/cathemichlinerosea/)  
+
+Thanks for visiting my GitHub! 🙂
