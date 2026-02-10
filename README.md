@@ -58,6 +58,5 @@ I’m particularly interested in building products that combine **good user expe
 ---
 
 ## 📫 Let’s Connect  
-- LinkedIn: [https://linkedin.com/in/your-link-here](https://www.linkedin.com/in/cathemichlinerosea/)  
-
+- LinkedIn: https://www.linkedin.com/in/cathemichlinerosea/
 Thanks for visiting my GitHub! 🙂
