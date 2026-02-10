@@ -60,4 +60,4 @@ I’m particularly interested in building products that combine **good user expe
 ## 📫 Let’s Connect  
 - LinkedIn: https://www.linkedin.com/in/cathemichlinerosea/
 
-- Thanks for visiting my GitHub! 🙂
+Thanks for visiting my GitHub! 🙂
