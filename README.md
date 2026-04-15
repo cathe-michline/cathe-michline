@@ -2,7 +2,7 @@
 
 🎓 Master of IT student at Swinburne University (Melbourne)  
 🎓 Bachelor of IT graduate  
-💡 Frontend-focused developer with interest in AI-powered applications  
+💡 Software developer with interest in AI-powered applications  
 
 ---
 
@@ -17,7 +17,7 @@ I’m particularly interested in building products that combine **good user expe
 ## 🛠️ Skills & Technologies  
 
 **Languages**  
-- HTML, CSS, JavaScript  
+- Python, JavaScript, Typescript, JAVA
 
 **Frontend**  
 - Angular - Responsive UI Design  
@@ -28,13 +28,11 @@ I’m particularly interested in building products that combine **good user expe
 - RESTful APIs  
 
 **Databases**  
-- MongoDB / MySQL 
-
-**Design**  
-- Figma  
+- MongoDB / MySQL  
 
 **AI & Emerging Tech**  
-- Integrating AI models into web applications
+- Claude API
+- GPT4.0
 
 **Tools & Dev Practices**  
 - Git, GitHub  
